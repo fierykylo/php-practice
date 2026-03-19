@@ -1,0 +1,7 @@
+<?php
+//arithmetic operators in php
+$x = 10;
+$y = 20;
+$z = $x + $y;
+echo $z;
+?>
