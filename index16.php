@@ -28,7 +28,7 @@
             //             FILTER_SANITIZE_SPECIAL_CHARS);
             // echo "Hello {$username}";
             $age = filter_input(INPUT_POST, "age", FILTER_SANITIZE_NUMBER_INT);
-            echo "You are {$age} years old"
+            echo "You are {$age} years old";
 
 
 
